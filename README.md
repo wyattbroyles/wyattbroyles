@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Wyatt Broyles🤟
+
+I am a recent computer science grad from Liberty University who is passionate about problem solving, web and app development
 
 <!--
 **wyattbroyles/wyattbroyles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
