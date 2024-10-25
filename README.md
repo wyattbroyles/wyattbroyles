@@ -7,7 +7,7 @@ Feel free to contact me at one of the links below:
 
 Email - [wyatt@breyel.com](wyatt@breyel.com)
 
-Linkedin - [linkedin.com/in/wyatt-broyles-6b7429200/](https://www.linkedin.com/in/wyatt-broyles-6b7429200/)
+Linkedin - [linkedin.com/in/wyatt-broyles](https://www.linkedin.com/in/wyatt-broyles-6b7429200/)
 
 <!--
 **wyattbroyles/wyattbroyles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
