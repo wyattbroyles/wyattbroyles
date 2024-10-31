@@ -6,7 +6,6 @@ I am currently looking for a full time software engineer role!
 Feel free to contact me at one of the links below:
 
 Email - [wyatt@breyel.com](wyatt@breyel.com)
-
 Linkedin - [linkedin.com/in/wyatt-broyles](https://www.linkedin.com/in/wyatt-broyles-6b7429200/)
 
 <!--
